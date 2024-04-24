@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Questoes respotas = new Questoes();
+
+        respotas.quest1();
+        respotas.quest2();
+        respotas.quest5();
     }
 }
